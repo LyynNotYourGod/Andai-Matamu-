@@ -1,2 +1,2 @@
 global.creator = "Lyyn"
-global.apikey = ["Lyyn", "Lyn", "STK"]
+global.apikey = ["lyyn", "lyyn", "lyyn"]
